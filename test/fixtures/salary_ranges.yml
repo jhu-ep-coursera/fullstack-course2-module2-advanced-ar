@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  min_salary: 1.5
+  max_salary: 1.5
+  job_id: 
+
+two:
+  min_salary: 1.5
+  max_salary: 1.5
+  job_id: 
