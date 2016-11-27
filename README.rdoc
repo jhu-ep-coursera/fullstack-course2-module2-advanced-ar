@@ -19,4 +19,4 @@
 
         $ rails s
 
-6. Inspect models at the local folder `app/models` and database data and migrations at the folder `db`.
+6. Inspect models at the local folder _app/models_ and database data and migrations at the folder _db_.
